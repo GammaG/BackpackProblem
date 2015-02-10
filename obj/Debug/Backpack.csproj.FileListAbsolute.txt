@@ -1,0 +1,9 @@
+C:\Uni\Visual Studio\Backpack\bin\Debug\Backpack.exe.config
+C:\Uni\Visual Studio\Backpack\bin\Debug\Backpack.exe
+C:\Uni\Visual Studio\Backpack\bin\Debug\Backpack.pdb
+C:\Uni\Visual Studio\Backpack\obj\Debug\Backpack.csprojResolveAssemblyReference.cache
+C:\Uni\Visual Studio\Backpack\obj\Debug\Backpack.Properties.Resources.resources
+C:\Uni\Visual Studio\Backpack\obj\Debug\Backpack.csproj.GenerateResource.Cache
+C:\Uni\Visual Studio\Backpack\obj\Debug\Backpack.exe
+C:\Uni\Visual Studio\Backpack\obj\Debug\Backpack.pdb
+C:\Uni\Visual Studio\Backpack\obj\Debug\Backpack.MainForm.resources
